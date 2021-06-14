@@ -6,6 +6,7 @@
 # install dependencies
 $ yarn install
 
+# ใช้ในการ API
 $ npm install @nuxtjs/auth @nuxtjs/axios
 $ yarn add core-js@2
 
