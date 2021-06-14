@@ -22,9 +22,9 @@ $ yarn generate
 
 # database
 
-# https://firebase.google.com/
-# ID:   database.juthathip@gmail.com
-# Pass: nukjunk13
+## https://firebase.google.com/
+## ID:   database.juthathip@gmail.com
+## Pass: nukjunk13
 
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
