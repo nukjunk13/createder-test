@@ -26,5 +26,10 @@ $ yarn generate
 ## ID:   database.juthathip@gmail.com
 ## Pass: nukjunk13
 
+```bash
+# ยังงงๆกับ Grid System ของ tailwind อยู่
+# ยังเชื่อมต่อกับระบบ login ของ firebase ยังไม่ได้ จังยังใช้ token ในการจำกัดการเข้าไม่ได้ (Admin)
+# ทำได้แค่ post ส่วน put กับ delete ยังทำไม่ได้
+```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
