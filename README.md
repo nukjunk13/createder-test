@@ -28,7 +28,7 @@ $ yarn generate
 
 ```bash
 # ยังงงๆกับ Grid System ของ tailwind อยู่
-# ยังเชื่อมต่อกับระบบ login ของ firebase ยังไม่ได้ จังยังใช้ token ในการจำกัดการเข้าไม่ได้ (Admin)
+# ยังเชื่อมต่อกับระบบ login ของ firebase ยังไม่ได้ จึงยังใช้ token ในการจำกัดการเข้าไม่ได้ (Admin)
 # ทำได้แค่ post ส่วน put กับ delete ยังทำไม่ได้
 ```
 
